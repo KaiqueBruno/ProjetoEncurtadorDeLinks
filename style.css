@@ -145,7 +145,7 @@ ul li a:hover {
     border: 1.5px solid var(--text-color);
 }
 
-/* SOCIAL LINKS ========= */
+/* SOCIAL LINKS ================================ */
 
 #social-links {
     display: flex;
@@ -175,7 +175,7 @@ footer {
     font-size: 14px;
 }
 
-/*media queries */ 
+/*media queries =================================*/ 
 @media (min-width: 700px) {
     :root {
         --bg-url: url(./assets/bg-desktop.jpg);
